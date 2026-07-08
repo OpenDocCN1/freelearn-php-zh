@@ -1,6 +1,6 @@
 # Drupal 博客创建指南
 
-> 原文：[`zh.annas-archive.org/md5/9b9ff3824b56d13e46612b8cfb032ff6`](https://zh.annas-archive.org/md5/9b9ff3824b56d13e46612b8cfb032ff6)
+> 原文：[Drupal : creating blogs, forums, portals, and community websites ; how to set up, configure, and customize this powerful PHP/MySQL-based open source CMS](https://zh.annas-archive.gl/md5/9b9ff3824b56d13e46612b8cfb032ff6)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

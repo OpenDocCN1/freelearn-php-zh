@@ -1,6 +1,6 @@
 # PHP 研讨会
 
-> 原文：[`zh.annas-archive.org/md5/c54baf6b6cd63a42f77a772a97717117`](https://zh.annas-archive.org/md5/c54baf6b6cd63a42f77a772a97717117)
+> 原文：[The PHP Workshop](https://zh.annas-archive.gl/md5/c54baf6b6cd63a42f77a772a97717117)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

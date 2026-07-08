@@ -1,6 +1,6 @@
 # 精通 Laravel
 
-> 原文：[`zh.annas-archive.org/md5/d10bf45da1cebf8f2b06a9600172079d`](https://zh.annas-archive.org/md5/d10bf45da1cebf8f2b06a9600172079d)
+> 原文：[Mastering Laravel : develop robust modern web-based software applications and RESTful APIs with Laravel, one of the hottests PHP frameworks](https://zh.annas-archive.gl/md5/d10bf45da1cebf8f2b06a9600172079d)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

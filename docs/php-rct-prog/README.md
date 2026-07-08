@@ -1,6 +1,6 @@
 # PHP 反应式编程
 
-> 原文：[`zh.annas-archive.org/md5/a1551220cbc6d68c712d2aa7b9a0096e`](https://zh.annas-archive.org/md5/a1551220cbc6d68c712d2aa7b9a0096e)
+> 原文：[PHP Reactive Programming](https://zh.annas-archive.gl/md5/a1551220cbc6d68c712d2aa7b9a0096e)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

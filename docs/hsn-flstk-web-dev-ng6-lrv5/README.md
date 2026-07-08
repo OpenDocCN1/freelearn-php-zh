@@ -1,6 +1,6 @@
 # Angular6 和 Laravel5  Web 全栈开发实用指南
 
-> 原文：[`zh.annas-archive.org/md5/b37ef01c0005efc4aa3cccbea6646556`](https://zh.annas-archive.org/md5/b37ef01c0005efc4aa3cccbea6646556)
+> 原文：[Hands-On Full Stack Web Development with Angular 6 and Laravel 5 : Become Fluent in Both Frontend and Backend Web Development with Docker, Angular and Laravel](https://zh.annas-archive.gl/md5/b37ef01c0005efc4aa3cccbea6646556)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

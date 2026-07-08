@@ -1,6 +1,6 @@
 # Concrete5 秘籍
 
-> 原文：[`zh.annas-archive.org/md5/3403bb6d7fb37c17ae37d3478cb76929`](https://zh.annas-archive.org/md5/3403bb6d7fb37c17ae37d3478cb76929)
+> 原文：[Concrete5 cookbook : over 140 recipes to help you develop websites using the concrete5 content management system](https://zh.annas-archive.gl/md5/3403bb6d7fb37c17ae37d3478cb76929)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

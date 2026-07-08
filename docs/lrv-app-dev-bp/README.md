@@ -1,6 +1,6 @@
 # Laravel 应用开发蓝图
 
-> 原文：[`zh.annas-archive.org/md5/036252ba943f4598902eee3d22b931a1`](https://zh.annas-archive.org/md5/036252ba943f4598902eee3d22b931a1)
+> 原文：[Laravel application development blueprints : learn to develop 10 fantastic applications with the new and improved Laravel 4](https://zh.annas-archive.gl/md5/036252ba943f4598902eee3d22b931a1)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

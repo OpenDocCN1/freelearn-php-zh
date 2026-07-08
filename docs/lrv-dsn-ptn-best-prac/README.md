@@ -1,6 +1,6 @@
 # Laravel 设计模式最佳实践
 
-> 原文：[`zh.annas-archive.org/md5/c21d87a1a56234879b851abfda164e5a`](https://zh.annas-archive.org/md5/c21d87a1a56234879b851abfda164e5a)
+> 原文：[Laravel Design Patterns and Best Practices](https://zh.annas-archive.gl/md5/c21d87a1a56234879b851abfda164e5a)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 
